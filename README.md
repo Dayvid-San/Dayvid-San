@@ -1,8 +1,9 @@
 ### Hello! Dayvid here! 👋
 
 
-- 🔭 I’m currently working on Design
-- 🌱 I’m currently learning NodeJS and MongoDB
+- 🎨 I’m currently working on Design
+- 📚 I’m currently learning NodeJS and MongoDB
+- 🤖 I like to make bots
 
 
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Dayvid-san&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
