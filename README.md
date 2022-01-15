@@ -1,7 +1,7 @@
 ### Hello! Dayvid here! 👋
 
 
-- 🎨 I’m Designer and Coder
+- 🎨 I’m Designer and Coder Freelancer
 - 📚 I’m currently learning NodeJS and MongoDB
 - 🤖 I like to make bots
 
