@@ -1,4 +1,4 @@
-##  <h1>Hello! Dayvid here! 👋</h1> 
+##  <h1>Hey there! Dayvid here! 👋</h1> 
 
 
 - 🎨 I’m Freelance Designer and Coder
