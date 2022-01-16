@@ -4,6 +4,7 @@
 - 🎨 I’m Freelance Designer and Coder
 - 📚 I’m currently learning NodeJS and MongoDB
 - 🤖 I like to make bots
+- 💪 Me and my friends have a Tech Team called <strong>TYTO</strong>
  
 
 
