@@ -2,7 +2,7 @@
 
 
 - 🎨 I’m Freelance Designer and Coder
-- 📚 I’m currently learning NodeJS and MongoDB
+- 📚 I’m currently learning NodeJS, MongoDB and Bootstrap
  
 
 
