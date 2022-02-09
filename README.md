@@ -1,9 +1,12 @@
-z#  Hey there! Dayvid here! 👋 <img align="right" src="https://avatars.githubusercontent.com/u/77745454?v=4" width="200" />
+#  Hey there! Dayvid here! 👋 <img align="right" src="https://avatars.githubusercontent.com/u/77745454?v=4" width="200" />
 
 
 - 🎨 I’m Freelance Designer and Coder
 - 📚 I’m currently learning NodeJS and MongoDB
- 
+ <br>
+ <br>
+ <br>
+ <br>
 
 <h2 align="center"> 🛡️ About Me 🗡️ </h2>
 
