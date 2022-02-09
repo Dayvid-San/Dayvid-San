@@ -7,7 +7,7 @@
 <br>
 <br>
 
-<h2 align="center"> 🛡️ About Me 🛡️ </h2>
+
 
  <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Dayvid-san&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -28,7 +28,7 @@
  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
-
+<br>
 
 <h2 align="center">⚔️ My Stats ⚔️</h2>
 <p align="center">
