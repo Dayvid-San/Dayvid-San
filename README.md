@@ -3,12 +3,10 @@
 
 - 🎨 I’m Freelance Designer and Coder
 - 📚 I’m currently learning NodeJS and MongoDB
- <br>
- <br>
- <br>
- <br>
+- 🤖 I like to code games and bots
 
-<h2 align="center"> 🛡️ About Me 🗡️ </h2>
+
+<h2 align="center"> 🛡️ About Me 🛡️ </h2>
 
  <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Dayvid-san&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
