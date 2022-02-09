@@ -15,8 +15,8 @@
 
 
  <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Dayvid-san&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dayvid-san&layout=compact&langs_count=9&theme=tokyonight"/><br>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Dayvid-san&show_icons=true&theme=none&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dayvid-san&layout=compact&langs_count=9&theme=none"/><br>
 </div> 
 
 <div align="center">
@@ -35,10 +35,15 @@
 </div>
 <br>
 
-<h2 align="center">⚔️ My Stats ⚔️</h2>
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dayvid-san&theme=tokyonight">
-</p>
+<h2 align="center" >⚔️ My Stats ⚔️</h2>
+
+<div align="center">
+ <img align="Escudo_Familia_Santana" src="https://user-images.githubusercontent.com/77745454/153297420-a3c51954-8231-40e7-aa31-262113a86f24.png" width="140" />
+
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dayvid-san&theme=none">
+ <img align="Escudo_Familia_Santana" src="https://user-images.githubusercontent.com/77745454/153297420-a3c51954-8231-40e7-aa31-262113a86f24.png" width="140" />
+</div>
 
 #
 <a href="https://www.linkedin.com/in/dayvid-santana-jr/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
