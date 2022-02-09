@@ -4,7 +4,8 @@
 - 🎨 I’m Freelance Designer and Coder
 - 📚 I’m currently learning NodeJS and MongoDB
 - 🤖 I like to code games and bots
-
+<br>
+<br>
 
 <h2 align="center"> 🛡️ About Me 🛡️ </h2>
 
