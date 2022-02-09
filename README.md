@@ -9,8 +9,7 @@
 - 🤝 I like to talk to people
 - 🔬 I appreciate physics a lot since I was young and everything about outer space
 - 📈 The commodity market and the relationship between different cultures catch my attention
-<br>
-<br>
+
 
 
 
