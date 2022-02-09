@@ -15,8 +15,8 @@
 
 
  <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Dayvid-san&show_icons=true&theme=none&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dayvid-san&layout=compact&langs_count=9&theme=none"/><br>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Dayvid-san&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dayvid-san&layout=compact&langs_count=9&theme=algolia"/><br>
 </div> 
 
 <div align="center">
@@ -35,13 +35,13 @@
 </div>
 <br>
 
-<h2 align="center" >⚔️ My Stats ⚔️</h2>
+<h2 align="center" >⚔️ My Full Stats ⚔️</h2>
 
-<div align="center">
+<div align="center" style="display: inline_block">>
  <img align="Escudo_Familia_Santana" src="https://user-images.githubusercontent.com/77745454/153297420-a3c51954-8231-40e7-aa31-262113a86f24.png" width="140" />
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dayvid-san&theme=none">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dayvid-san&theme=algolia">
  <img align="Escudo_Familia_Santana" src="https://user-images.githubusercontent.com/77745454/153297420-a3c51954-8231-40e7-aa31-262113a86f24.png" width="140" />
 </div>
 
