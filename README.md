@@ -5,9 +5,9 @@
 
 - 🎨 I’m Freelance Designer and Coder
 - 📚 I’m currently learning NodeJS and MongoDB
-- 🤖 I like to code apps and bots to my games
+- 🤖 I code apps and bots to my games
 - 🤝 I like to talk to people
-- 🔬 I appreciate physics a lot since I was young and everything about outer space
+- 🔬 I appreciate physics and everything about outer space a lot since I was young
 - 📈 The commodity market and the relationship between different cultures catch my attention
 
 #
