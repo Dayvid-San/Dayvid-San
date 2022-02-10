@@ -1,6 +1,4 @@
-#  Hey there! Dayvid here! 👋 <img align="right" src="https://user-images.githubusercontent.com/77745454/153294700-39b68079-4c4f-4129-a115-ec65be6b4a25.png" width="200" />
-
-
+## Hey there! Dayvid here! 👋 <img align="right" src="https://user-images.githubusercontent.com/77745454/153294700-39b68079-4c4f-4129-a115-ec65be6b4a25.png" width="200" />
 
 
 - 🎨 I’m Freelance Designer and Coder
@@ -38,7 +36,7 @@
 </div>
 <br>
 
-<h2 align="center" >⚔️ My Full Stats ⚔️</h2>
+<h3 align="center" >⚔️ My Full Stats ⚔️</h3>
 
 <div align="center" style="display: inline_block">
  <img align="Escudo_Familia_Santana"  width="140" />
@@ -51,9 +49,4 @@
 
 #
 <a href="https://www.linkedin.com/in/dayvid-santana-jr/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
-<!--
- <img src="https://visitor-badge.glitch.me/badge?page_id=Dayvid-San" alt="Dayvid-San"/>
--->
-  
-
+<a href="https://www.instagram.com/dayvid_jr_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
