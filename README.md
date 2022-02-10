@@ -36,7 +36,7 @@
 
 <h2 align="center" >⚔️ My Full Stats ⚔️</h2>
 
-<div align="center" style="display: inline_block">>
+<div align="center" style="display: inline_block">
  <img align="Escudo_Familia_Santana"  width="140" />
 
 
