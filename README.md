@@ -12,8 +12,8 @@
 
  <div align="center">
  <a href="#">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Dayvid-san&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dayvid-san&layout=compact&langs_count=9&theme=algolia"/><br>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Dayvid-San&show_icons=true&theme=algolia&include_all_commits=false&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dayvid-San&layout=compact&langs_count=8&theme=algolia"/><br>
 </div> 
 
 <div align="center">
@@ -48,6 +48,7 @@
 
 
 #
-<a href="https://www.linkedin.com/in/dayvid-santana-jr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><a href = "mailto:dayvid.coder@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" ></a>
+<a href="https://www.linkedin.com/in/dayvid-santana-jr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a><a href = "mailto:dayvid.coder@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" ></a>
 <a href="https://www.instagram.com/dayvid_jr_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" ></a>
  
