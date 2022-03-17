@@ -3,6 +3,7 @@
 
 - 🎨 I’m Freelance Designer and Coder
 - 📚 I’m currently learning NodeJS and MongoDB
+- 🌱 I like customization
 - 🤖 I code apps and bots to my games
 - 🤓 I started with java, python and mysql at school to help me with my homework
 - 🔬 I appreciate physics and everything about outer space a lot since I was young
