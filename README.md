@@ -6,7 +6,7 @@
 - 🌱 I like customization
 - 🤖 I code apps and bots to my games
 - 🤓 I started with java, python and mysql at school to help me with my homework
-- 🔬 I appreciate physics and everything about outer space a lot since I was young
+- 🔬 I appreciate physics and everything about outer space since I was young
 - 📈 The global market and the relationship between different cultures catch my attention
 
 #
@@ -48,6 +48,15 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dayvid-san&theme=algolia">
  <img align="Escudo_Familia_Santana" src="https://user-images.githubusercontent.com/77745454/153318783-aa0d4001-6955-4848-90f9-ca5e3e66214c.png" width="140" />
 </div>
+
+  <details>
+  <summary>
+      Even more stats
+  </summary>
+  <p align="center" margin="0 auto">
+    <img src="https://github-profile-trophy.vercel.app/?username=Dayvid-San&theme=algolia&title=Followers&title=Commits&title=Repositories&title=MultiLanguage&title=PullRequest&title=Issues">
+  </p>
+</details>
 
 
 #
