@@ -51,7 +51,7 @@
 
   <details>
   <summary>
-      Even more stats
+      My trophies
   </summary>
   <p align="center" margin="0 auto">
     <img src="https://github-profile-trophy.vercel.app/?username=Dayvid-San&theme=algolia&title=Followers,Commits,Repositories,MultiLanguage,PullRequest&column=5">
