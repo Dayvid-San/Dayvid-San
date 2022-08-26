@@ -58,6 +58,18 @@
  <img align="Escudo_Familia_Santana" src="https://user-images.githubusercontent.com/77745454/153318783-aa0d4001-6955-4848-90f9-ca5e3e66214c.png" width="140" />
 </div>
 
+<details  >
+ <summary>
+  Commits in this mouth
+ </summary>
+ <img src="https://activity-graph.herokuapp.com/graph?username=Dayvid-San&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
+ <p align="center"> 
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=65&section=footer"/>
+</p>
+<br/>
+<br/>
+</details>
+
   <details>
   <summary>
       My trophies
@@ -72,4 +84,4 @@
 <a href="https://www.linkedin.com/in/dayvid-santana-jr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a><a href = "mailto:dayvid.coder@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" ></a>
 <a href="https://www.instagram.com/dayvid_jr_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" ></a>
- 
+
