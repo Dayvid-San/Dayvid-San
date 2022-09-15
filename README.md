@@ -1,8 +1,8 @@
 ## Hey there! Dayvid here! 👋 <img align="right" src="https://user-images.githubusercontent.com/77745454/153294700-39b68079-4c4f-4129-a115-ec65be6b4a25.png" width="200" />
 
 
-- 🎨 I’m Freelance Designer and Coder
-- 📚 I’m currently learning Angular
+- 🎨 I’m Freelancer Designer and Software Developer
+- 📚 I’m currently learning Soft Skills
 - 🌱 I like customization
 - 🤖 I code apps and bots to my games
 - 🤓 I started with java, python and mysql at school to help me with my homework
