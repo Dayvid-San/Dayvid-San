@@ -13,8 +13,8 @@
 
  <div align="center">
  <a href="#">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Dayvid-San&show_icons=true&theme=algolia&include_all_commits=false&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dayvid-San&layout=compact&langs_count=8&theme=algolia"/><br>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Dayvid-San&show_icons=true&theme=midnight-purple&include_all_commits=false&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dayvid-San&layout=compact&langs_count=8&theme=midnight-purple"/><br>
 </div> 
 
 <div align="">
@@ -54,7 +54,7 @@
  <img align="Escudo_Familia_Santana"  width="140" />
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dayvid-san&theme=algolia">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dayvid-san&theme=midnight-purple">
  <img align="Escudo_Familia_Santana" src="https://user-images.githubusercontent.com/77745454/153318783-aa0d4001-6955-4848-90f9-ca5e3e66214c.png" width="140" />
 </div>
 
@@ -75,7 +75,7 @@
       My trophies
   </summary>
   <p align="center" margin="0 auto">
-    <img src="https://github-profile-trophy.vercel.app/?username=Dayvid-San&theme=algolia&title=Followers,Commits,Repositories,MultiLanguage,PullRequest&column=5">
+    <img src="https://github-profile-trophy.vercel.app/?username=Dayvid-San&dark&title=Followers,Commits,Repositories,MultiLanguage,PullRequest&column=5">
   </p>
 </details>
 
