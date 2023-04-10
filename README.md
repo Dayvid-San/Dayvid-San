@@ -1,13 +1,13 @@
 ## Hey there! Dayvid here! 👋 <img align="right" src="https://user-images.githubusercontent.com/77745454/153294700-39b68079-4c4f-4129-a115-ec65be6b4a25.png" width="200" />
 
 
-- 🎨 I’m Freelancer Designer and Software Developer
-- 📚 I’m currently learning Soft Skills
-- 🌱 I like customization
-- 🤖 I code apps and bots to my games
-- 🤓 I started with java, python and mysql at school to help me with my homework
-- 🔬 I appreciate physics and everything about outer space since I was young
-- 📈 The global market and the relationship between different cultures catch my attention
+- 🎨 I am a freelance designer and software developer.
+- 📚 I am currently focusing on developing my soft skills.
+- 🌱 I enjoy customization and personalization.
+- 🤖 I create apps and bots for my games.
+- 🤓 I started learning Java, Python, and MySQL in school to assist with my homework.
+- 🔬 I have always been fascinated by physics and everything related to outer space.
+- 📈 The global market and the interactions between different cultures have always captured my attention.
 
 #
 
