@@ -1,4 +1,4 @@
-## Hey there! Dayvid here! 👋 <img align="right" src="https://i.imgur.com/bJBgjf6.gif?noredirect" width="200" />
+## Hey there! Dayvid here! 👋 <img align="right" src="https://i.imgur.com/bJBgjf6.gif?noredirect" width="170" />
 
 
 - 🎨 I am a freelance designer and software developer.
