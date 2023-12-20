@@ -1,8 +1,8 @@
 ## Hey there! Dayvid here! 👋 <img align="right" src="https://i.imgur.com/bJBgjf6.gif?noredirect" width="170" />
 
 
-- 🎨 I am a freelance designer and software developer.
-- 📚 I am currently focusing on developing my soft skills.
+- 💻 I am a Software Developer.
+- 📚 I am currently focusing on Typescript.
 - 🌱 I enjoy customization and personalization.
 - 🤖 I create apps and bots for my games.
 - 🤓 I started learning Java, Python, and MySQL in school to assist with my homework.
