@@ -7,7 +7,6 @@
 - 🤖 I create apps and bots for my games.
 - 🤓 I started learning Java, Python, and MySQL in school to assist with my homework.
 - 🔬 I have always been fascinated by physics and everything related to outer space.
-- 📈 The global market and the interactions between different cultures have always captured my attention.
 
 #
 
@@ -60,7 +59,7 @@
 
 <details  >
  <summary>
-  Commits in this mouth
+  Commits in this month
  </summary>
  <img src="https://activity-graph.herokuapp.com/graph?username=Dayvid-San&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
  <p align="center"> 
