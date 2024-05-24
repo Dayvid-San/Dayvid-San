@@ -12,8 +12,8 @@
 
  <div align="center">
  <a href="#">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Dayvid-San&show_icons=true&theme=midnight-purple&include_all_commits=false&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dayvid-San&layout=compact&langs_count=8&theme=midnight-purple"/><br>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Dayvid-San&show_icons=true&theme=midnight-purple&include_all_commits=false&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dayvid-San&layout=compact&langs_count=8&theme=midnight-purple"/><br>
 </div> 
 
 <div align="">
