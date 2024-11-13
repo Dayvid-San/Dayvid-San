@@ -1,4 +1,4 @@
-## Hey there! Dayvid here! 👋 <img align="right" src="https://i.imgur.com/bJBgjf6.gif?noredirect" width="170" />
+## Hey there! Dayvid here! 👋 <img align="right" src="https://giffiles.alphacoders.com/146/14623.gif" width="200" />
 
 
 - 💻 I am a Software Developer.
