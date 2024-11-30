@@ -22,8 +22,6 @@
 ![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![C](https://img.shields.io/badge/-sharp-6A5ACD?style=flat-square&logo=c#)
-![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
-![Laravel](https://img.shields.io/badge/-Laravel-ffffff?style=flat-square&logo=Laravel)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -47,6 +45,26 @@
 </div>
 <br>
 
+<div align="center" style="display: inline">
+ <img align="Escudo_Familia_Santana" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6fe91322-e36d-4aca-8d83-41904f9e429f/df3vtz6-07675b99-dcad-44aa-90f5-527b4b781339.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzZmZTkxMzIyLWUzNmQtNGFjYS04ZDgzLTQxOTA0ZjllNDI5ZlwvZGYzdnR6Ni0wNzY3NWI5OS1kY2FkLTQ0YWEtOTBmNS01MjdiNGI3ODEzMzkuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.DxpyPs1xMoA-_tE7cWgR1TxJuEQAxjNXjUt_-PHfOz4" width="540" />
+ <div width="140px">
+ <h3>My successful projects</h3>
+  <ul>
+   <li>
+    🛡️<a href="https://engscan.vercel.app">EngScan</a>🛡️
+   </li>
+   <li>
+    🛡️<a href="https://tytocode.com.br">TYTO.code</a>🛡️
+   </li>
+   <li>
+    🛡️<a href="https://alphacondo.vercel.app">Alphacondo</a>🛡️
+   </li>
+  </ul>
+ </div>
+</div>
+
+#
+
 <h3 align="center" >⚔️ My Full Stats ⚔️</h3>
 
 <div align="center" style="display: inline_block">
@@ -56,18 +74,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dayvid-san&theme=midnight-purple">
  <img align="Escudo_Familia_Santana" src="https://user-images.githubusercontent.com/77745454/153318783-aa0d4001-6955-4848-90f9-ca5e3e66214c.png" width="140" />
 </div>
-
-<details  >
- <summary>
-  Commits in this month
- </summary>
- <img src="https://activity-graph.herokuapp.com/graph?username=Dayvid-San&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
- <p align="center"> 
- <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=65&section=footer"/>
-</p>
-<br/>
-<br/>
-</details>
 
   <details>
   <summary>
