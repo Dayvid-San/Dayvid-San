@@ -2,7 +2,7 @@
 
 
 - 💻 I am a Software Developer.
-- 📚 I am currently focusing on Typescript.
+- 📚 I am currently focusing on Neural Networks.
 - 🌱 I enjoy customization and personalization.
 - 🤖 I create apps and bots for my games.
 - 🤓 I started learning Java, Python, and MySQL in school to assist with my homework.
