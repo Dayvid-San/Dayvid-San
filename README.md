@@ -7,6 +7,7 @@
 - 🤖 I create apps and bots for my games.
 - 🤓 I started learning Java, Python, and MySQL in school to assist with my homework.
 - 🔬 I have always been fascinated by physics and everything related to outer space.
+- ⚔️ You can check out some of my projects on my college GitHub: github.com/kamatashi
 
 #
 
@@ -55,9 +56,6 @@
    </li>
    <li>
     🛡️<a href="https://tytocode.com.br">TYTO.code</a>🛡️
-   </li>
-   <li>
-    🛡️<a href="https://alphacondo.vercel.app">Alphacondo</a>🛡️
    </li>
    <li>
     🛡️<a href="https://castle-collis-angelus.vercel.app/">Castle Collis Angelus</a>🛡️
