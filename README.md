@@ -60,6 +60,9 @@
    <li>
     🛡️<a href="https://castle-collis-angelus.vercel.app/">Castle Collis Angelus</a>🛡️
    </li>
+   <li>
+    🛡️<a href="https://lading-page-next.vercel.app">Next</a>🛡️
+   </li>
   </ul>
  </div>
 </div>
