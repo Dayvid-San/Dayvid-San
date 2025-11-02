@@ -62,10 +62,8 @@
 <h3 align="center" >⚔️ My Complete Statistics ⚔️</h3>
 
 <div align="center" style="display: inline_block">
- <img align="Escudo_Familia_Santana"  width="140" />
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dayvid-san&theme=midnight-purple">
+ <img align="left" src="https://giffiles.alphacoders.com/146/14621.gif" width="200" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dayvid-san&theme=midnight-purple">
  <img align="Escudo_Familia_Santana" src="https://user-images.githubusercontent.com/77745454/153318783-aa0d4001-6955-4848-90f9-ca5e3e66214c.png" width="140" />
 </div>
 
