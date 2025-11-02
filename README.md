@@ -2,7 +2,7 @@
   
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=New+Rocker&size=35&pause=1000&color=3A4D9A&repeat=false&width=435&lines=Hey!+I'm+Dayvid.)](https://git.io/typing-svg) <img align="right" src="https://giffiles.alphacoders.com/146/14623.gif" width="200" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=MedievalSharp&duration=4000&pause=1000&color=C0BEBE&multiline=true&repeat=false&width=675&height=160&lines=%F0%9F%92%BB+I+am+a+Software+Developer.;%F0%9F%93%9A+I+am+currently+focusing+on+Neural+Networks+and+Blockchain.;%F0%9F%8C%B1+I+enjoy+customization+and+personalization.;%F0%9F%A4%96+I+build+apps+and+bots+for+my+games.;%F0%9F%A4%93+My+journey+began+in+school%2C+learning+Java%2C+Python%2C+and+MySQL+.;%E2%9A%94%EF%B8%8F+Check+out+my+college+projects%3A+github.com%2Fkamatashi)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=MedievalSharp&size=16&duration=4000&pause=1000&color=C0BEBE&multiline=true&repeat=false&width=525&height=160&lines=%F0%9F%92%BB+I+am+a+Software+Developer.;%F0%9F%93%9A+I+am+currently+focusing+on+Neural+Networks+and+Blockchain.;%F0%9F%8C%B1+I+enjoy+customization+and+personalization.;%F0%9F%A4%96+I+build+apps+and+bots+for+my+games.;%F0%9F%A4%93+My+journey+began+in+school%2C+learning+Java%2C+Python%2C+and+MySQL+.;%E2%9A%94%EF%B8%8F+Check+out+my+college+projects%3A+github.com%2Fkamatashi)](https://git.io/typing-svg)
 
 #
 
