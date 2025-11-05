@@ -72,7 +72,7 @@
       My trophies
   </summary>
   <p align="center" margin="0 auto">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=Dayvid-San&theme=discord&title=Followers,Commits,Repositories,MultiLanguage,PullRequest&column=5">
+    <img src="https://github-profile-trophy.vercel.app/?username=Dayvid-San&theme=discord&title=Followers,Commits,Repositories,MultiLanguage,PullRequest&column=5">
   </p>
 </details>
 
