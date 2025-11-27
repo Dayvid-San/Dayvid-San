@@ -10,15 +10,16 @@ const hero = {
   level: 27,
   xpCurrent: 14250,
   xpNeeded: 20000,
-  elo: 'Cavaleiro Arcano'
+  eloName: 'Cavaleiro Arcano',
+  eloImg: 'https://github.com/user-attachments/assets/619a5827-126e-470f-9b35-aa433c8443ff'
 };
 
 const skills = [
-  { key: 'Web', pct: 80, title: 'Forjador das Estradas Digitais' },
-  { key: 'Blockchain', pct: 40, title: 'Guardião dos Selos Criptográficos' },
-  { key: 'Redes Neurais', pct: 40, title: 'Tecelão das Mentes Artificiais' },
-  { key: 'Linux', pct: 70, title: 'Navegador dos Reinos Unix' },
-  { key: 'Banco de Dados', pct: 80, title: 'Arquivista dos Tomos Eternos' }
+  { key: 'Web', pct: 60, title: 'Tecnologias Web' },
+  { key: 'Blockchain', pct: 2, title: 'Blockchain' },
+  { key: 'Redes Neurais', pct: 7, title: 'Redes Neurais' },
+  { key: 'Linux', pct: 70, title: 'Linux e Unix' },
+  { key: 'Banco de Dados', pct: 16, title: 'Banco de Dados' }
 ];
 // ---------- FIM CONFIG ----------
 
@@ -27,14 +28,14 @@ const colors = {
   blue: '#3A4D9A',
   deep: '#2B2161',
   gold: '#C9A94B',
-  parchment: '#F5E6C8',
+  parchment: '#b58a3a',
   silver: '#C0BEBE',
   mint: '#6EE7B7',
   darkPaper: '#0b0b0b'
 };
 
 // dimensions
-const W = 720;
+const W = 470;
 const H = 240;
 const leftW = 200;
 const rightW = W - leftW - 40; // padding
@@ -71,7 +72,7 @@ function buildSkillRows(skills, startX, startY) {
     <!-- bar background -->
     <rect x="${startX + 110}" y="${y + 18}" width="${barMaxW}" height="${barH}" rx="6" fill="rgba(255,255,255,0.03)" stroke="${colors.deep}" stroke-opacity="0.08"/>
     <!-- bar fill -->
-    <rect x="${startX + 110}" y="${y + 18}" width="${barW}" height="${barH}" rx="6" fill="${colors.mint}" />
+    <rect x="${startX + 110}" y="${y + 18}" width="${barW}" height="${barH}" rx="6" fill="${colors.blue}" />
     <!-- percent -->
     <text x="${startX + 120 + barMaxW}" y="${y + 10}" font-family="monospace" font-size="12" fill="${colors.gold}" text-anchor="end">${s.pct}%</text>
     `;
@@ -89,7 +90,7 @@ const svg = `<?xml version="1.0" encoding="utf-8"?>
     .bg{fill:${colors.parchment}}
     .card{fill:rgba(255,255,255,0.02)}
     .title{font-family: "Cinzel", Georgia, "Times New Roman", serif; font-weight:700; font-size:18px; fill:${colors.deep}}
-    .muted{font-family: "Segoe UI", Roboto, sans-serif; font-size:12px; fill:${colors.silver}}
+    .muted{font-family: "Segoe UI", Roboto, sans-serif; font-size:12px; fill:${colors.blue}}
     .gold{fill:${colors.gold}; font-weight:700}
   </style>
 
@@ -99,30 +100,24 @@ const svg = `<?xml version="1.0" encoding="utf-8"?>
   <!-- borda decorativa -->
   <rect x="6" y="6" width="${W-12}" height="${H-12}" rx="12" fill="none" stroke="${colors.deep}" stroke-width="3"/>
 
-  <!-- left: escudo -->
-  <g transform="translate(${pad}, ${pad})">
-    <rect x="0" y="0" width="${leftW}" height="${H - pad*2}" rx="10" fill="rgba(255,255,255,0.01)" />
-    <!-- shield shape -->
-    <g transform="translate(${leftW/2}, ${H/2 - pad})">
-      <path d="M0,-80 C50,-80 70,-40 70,6 C70,90 -70,90 -70,6 C-70,-40 -50,-80 0,-80 Z" fill="url(#g1)" stroke="${colors.gold}" stroke-width="4"/>
-      <circle cx="0" cy="-10" r="8" fill="${colors.mint}" />
-      <text x="0" y="6" font-family="Georgia, serif" font-size="18" text-anchor="middle" fill="${colors.parchment}" font-weight="700">${esc(hero.name)}</text>
-    </g>
-  </g>
+  <text x="100" y="22" text-anchor="middle" font-size="16" font-weight="700" fill="#c9a86a">
+        ${hero.eloName}
+  </text>
+  <image 
+        href="${hero.eloImg}" 
+        x="60" 
+        y="30" 
+        width="80" 
+        height="80"
+  />
 
-  <defs>
-    <linearGradient id="g1" x1="0" x2="1">
-      <stop offset="0" stop-color="${colors.deep}" />
-      <stop offset="1" stop-color="${colors.blue}" />
-    </linearGradient>
-  </defs>
 
   <!-- right area -->
   <g transform="translate(${leftW + pad + 10}, ${pad})">
     <!-- header: Level / XP / Elo -->
     <text x="0" y="20" class="title">Level: ${esc(String(hero.level))} · XP: ${esc(String(hero.xpCurrent))} / ${esc(String(hero.xpNeeded))}</text>
     <text x="${rightW - 20}" y="20" class="muted" text-anchor="end">Atualizado: ${esc(now)}</text>
-    <text x="0" y="44" class="muted">Elo: <tspan class="gold">${esc(hero.elo)}</tspan></text>
+    <text x="0" y="44" class="muted">Elo: <tspan class="gold">${esc(hero.eloName)}</tspan></text>
 
     <!-- skills block -->
     ${buildSkillRows(skills, 0, 72)}
