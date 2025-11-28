@@ -1,8 +1,5 @@
-<div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=New+Rocker&size=35&pause=1000&color=3A4D9A&repeat=false&width=435&lines=Hey!+I'm+Dayvid.)](https://git.io/typing-svg) 
-<img align="right" src="https://giffiles.alphacoders.com/146/14623.gif" width="200" />
-</div>
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=New+Rocker&size=35&pause=1000&color=3A4D9A&repeat=false&width=435&lines=Hey!+I'm+Dayvid.)](https://git.io/typing-svg) <img align="right" src="https://giffiles.alphacoders.com/146/14623.gif" width="200" />
 
 <br>
 
@@ -10,7 +7,6 @@
 
 
 
----
 
 <div align="center">
   <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6fe91322-e36d-4aca-8d83-41904f9e429f/df3vtz6-07675b99-dcad-44aa-90f5-527b4b781339.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzZmZTkxMzIyLWUzNmQtNGFjYS04ZDgzLTQxOTA0ZjllNDI5ZlwvZGYzdnR6Ni0wNzY3NWI5OS1kY2FkLTQ0YWEtOTBmNS01MjdiNGI3ODEzMzkuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.DxpyPs1xMoA-_tE7cWgR1TxJuEQAxjNXjUt_-PHfOz4" style="margin-right: 20px;" width="650" />
@@ -46,6 +42,7 @@
 <div align="center" style="display: flex; justify-content: center; align-items: flex-start;">
 
  <img align="left" src="https://user-images.githubusercontent.com/77745454/153318783-aa0d4001-6955-4848-90f9-ca5e3e66214c.png" width="140" />
+ <img align="right" src="https://giffiles.alphacoders.com/146/14621.gif" width="200" />
 
 
 <div align="left">
@@ -53,10 +50,13 @@
 * 🛡️ [**EngScan**](https://engscan.com)
 * 🛡️ [**TYTO.code**](https://tytocode.com.br)
 * 🛡️ [**Castle Collis Angelus**](https://castle-collis-angelus.vercel.app/)
-* 🛡️ [**Lading Page Next**](https://lading-page-next.vercel.app)
+* 🛡️ [**Next**](https://lading-page-next.vercel.app)
+* 🛡️ [**Constructor**](https://tytocode.com.br/constructor)
+* 🛡️ [**AgroViva**](https://tytocode.com.br/agroviva)
+* 🛡️ [**Midas**](https://tytocode.com.br/midas)
 
 </div>
-<img align="right" src="https://giffiles.alphacoders.com/146/14621.gif" width="200" />
+
 </div>
 
 
