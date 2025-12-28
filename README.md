@@ -37,7 +37,7 @@
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-## Projetos de Destaque
+## Projects
 
 <div align="center" style="display: flex; justify-content: center; align-items: flex-start;">
 
@@ -68,7 +68,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dayvid-San&layout=compact&langs_count=8&theme=midnight-purple"/><br>
  </div>
  
- <h3 align="center" >⚔️ Minhas Estatísticas Completas ⚔️</h3>
+ <h3 align="center" >⚔️ My status ⚔️</h3>
  <img src="assets/medieval-status.svg" width="720" alt="Status medieval — Dayvid" />
 </div>
 
