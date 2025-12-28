@@ -60,7 +60,7 @@
 </div>
 
 
-## Estatísticas do GitHub
+## GitHub
 
 <div align="center">
  <a href="#">
