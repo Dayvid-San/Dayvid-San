@@ -49,7 +49,7 @@
  
 * 🛡️ [**EngScan**](https://engscan.com)
 * 🛡️ [**TYTO.code**](https://tytocode.com.br)
-* 🛡️ [**Castle Collis Angelus**](https://castle-collis-angelus.vercel.app/)
+* 🛡️ [**Castle Collis Angelus**](https://collisangelus.vercel.app/)
 * 🛡️ [**Next**](https://lading-page-next.vercel.app)
 * 🛡️ [**Constructor**](https://tytocode.com.br/constructor)
 * 🛡️ [**AgroViva**](https://tytocode.com.br/agroviva)
