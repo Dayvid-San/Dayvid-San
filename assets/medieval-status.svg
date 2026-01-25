@@ -33,21 +33,21 @@
       </g>
     
     <!-- elo name under the shield -->
-    <text x="100" y="216" font-family="Georgia, serif" font-size="14" text-anchor="middle" fill="#E5E5E5" font-weight="700">Cavaleiro Arcano</text>
+    <text x="100" y="216" font-family="Georgia, serif" font-size="14" text-anchor="middle" fill="#E5E5E5" font-weight="700">Lord</text>
   </g>
 
   <!-- right area -->
   <g transform="translate(230, 20)">
     <!-- header: Level / XP / Nome -->
     <text x="0" y="20" class="title">Level: 27 · XP: 14250 / 20000</text>
-    <text x="540" y="20" class="muted" text-anchor="end">Atualizado: 25/01/2026, 15:41:29</text>
-    <text x="0" y="44" class="muted">Elo: <tspan class="gold">Cavaleiro Arcano</tspan></text>
+    <text x="540" y="20" class="muted" text-anchor="end">Updated: 25/01/2026, 15:43:58</text>
+    <text x="0" y="44" class="muted">Elo: <tspan class="gold">Lord</tspan></text>
 
     <!-- skills block -->
     
-    <!-- skill Web -->
-    <text x="0" y="82" font-family="Georgia, 'Times New Roman', serif" font-size="14" fill="#FFFFFF" font-weight="700">Web</text>
-    <text x="110" y="82" font-family="sans-serif" font-size="12" fill="#E5E5E5">Tecnologias Web</text>
+    <!-- skill  -->
+    <text x="0" y="82" font-family="Georgia, 'Times New Roman', serif" font-size="14" fill="#FFFFFF" font-weight="700"></text>
+    <text x="110" y="82" font-family="sans-serif" font-size="12" fill="#E5E5E5">Web</text>
 
     <!-- bar background (papel/ madeira escuro) -->
     <rect x="110" y="90" width="390" height="12" rx="6" fill="#2B2161" fill-opacity="1" stroke="#3A4D9A" stroke-width="1.2"/>
@@ -58,8 +58,8 @@
     <!-- percent text -->
     <text x="518" y="82" font-family="monospace" font-size="12" fill="#FFFFFF" text-anchor="end">60%</text>
     
-    <!-- skill Blockchain -->
-    <text x="0" y="112" font-family="Georgia, 'Times New Roman', serif" font-size="14" fill="#FFFFFF" font-weight="700">Blockchain</text>
+    <!-- skill  -->
+    <text x="0" y="112" font-family="Georgia, 'Times New Roman', serif" font-size="14" fill="#FFFFFF" font-weight="700"></text>
     <text x="110" y="112" font-family="sans-serif" font-size="12" fill="#E5E5E5">Blockchain</text>
 
     <!-- bar background (papel/ madeira escuro) -->
@@ -71,22 +71,22 @@
     <!-- percent text -->
     <text x="518" y="112" font-family="monospace" font-size="12" fill="#FFFFFF" text-anchor="end">2%</text>
     
-    <!-- skill Redes Neurais -->
-    <text x="0" y="142" font-family="Georgia, 'Times New Roman', serif" font-size="14" fill="#FFFFFF" font-weight="700">Redes Neurais</text>
-    <text x="110" y="142" font-family="sans-serif" font-size="12" fill="#E5E5E5">Redes Neurais</text>
+    <!-- skill  -->
+    <text x="0" y="142" font-family="Georgia, 'Times New Roman', serif" font-size="14" fill="#FFFFFF" font-weight="700"></text>
+    <text x="110" y="142" font-family="sans-serif" font-size="12" fill="#E5E5E5">Neural Networks</text>
 
     <!-- bar background (papel/ madeira escuro) -->
     <rect x="110" y="150" width="390" height="12" rx="6" fill="#2B2161" fill-opacity="1" stroke="#3A4D9A" stroke-width="1.2"/>
 
     <!-- bar fill (ouro envelhecido) -->
-    <rect x="110" y="150" width="27" height="12" rx="6" fill="#FFFFFF" />
+    <rect x="110" y="150" width="90" height="12" rx="6" fill="#FFFFFF" />
 
     <!-- percent text -->
-    <text x="518" y="142" font-family="monospace" font-size="12" fill="#FFFFFF" text-anchor="end">7%</text>
+    <text x="518" y="142" font-family="monospace" font-size="12" fill="#FFFFFF" text-anchor="end">23%</text>
     
-    <!-- skill Linux -->
-    <text x="0" y="172" font-family="Georgia, 'Times New Roman', serif" font-size="14" fill="#FFFFFF" font-weight="700">Linux</text>
-    <text x="110" y="172" font-family="sans-serif" font-size="12" fill="#E5E5E5">Linux e Unix</text>
+    <!-- skill  -->
+    <text x="0" y="172" font-family="Georgia, 'Times New Roman', serif" font-size="14" fill="#FFFFFF" font-weight="700"></text>
+    <text x="110" y="172" font-family="sans-serif" font-size="12" fill="#E5E5E5">Linux and Unix</text>
 
     <!-- bar background (papel/ madeira escuro) -->
     <rect x="110" y="180" width="390" height="12" rx="6" fill="#2B2161" fill-opacity="1" stroke="#3A4D9A" stroke-width="1.2"/>
@@ -97,18 +97,18 @@
     <!-- percent text -->
     <text x="518" y="172" font-family="monospace" font-size="12" fill="#FFFFFF" text-anchor="end">70%</text>
     
-    <!-- skill Banco de Dados -->
-    <text x="0" y="202" font-family="Georgia, 'Times New Roman', serif" font-size="14" fill="#FFFFFF" font-weight="700">Banco de Dados</text>
-    <text x="110" y="202" font-family="sans-serif" font-size="12" fill="#E5E5E5">Banco de Dados</text>
+    <!-- skill  -->
+    <text x="0" y="202" font-family="Georgia, 'Times New Roman', serif" font-size="14" fill="#FFFFFF" font-weight="700"></text>
+    <text x="110" y="202" font-family="sans-serif" font-size="12" fill="#E5E5E5">Databases</text>
 
     <!-- bar background (papel/ madeira escuro) -->
     <rect x="110" y="210" width="390" height="12" rx="6" fill="#2B2161" fill-opacity="1" stroke="#3A4D9A" stroke-width="1.2"/>
 
     <!-- bar fill (ouro envelhecido) -->
-    <rect x="110" y="210" width="62" height="12" rx="6" fill="#FFFFFF" />
+    <rect x="110" y="210" width="218" height="12" rx="6" fill="#FFFFFF" />
 
     <!-- percent text -->
-    <text x="518" y="202" font-family="monospace" font-size="12" fill="#FFFFFF" text-anchor="end">16%</text>
+    <text x="518" y="202" font-family="monospace" font-size="12" fill="#FFFFFF" text-anchor="end">56%</text>
     
   </g>
 </svg>
