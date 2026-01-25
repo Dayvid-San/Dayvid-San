@@ -1,5 +1,3 @@
-// scripts/generate-medieval-status.js
-// Node 18+ recommended
 const fs = require('fs');
 const path = require('path');
 
@@ -12,21 +10,18 @@ const hero = {
   level: 27,
   xpCurrent: 14250,
   xpNeeded: 20000,
-  eloName: 'Cavaleiro Arcano',
-  // coloque uma URL https válida aqui (ou deixe vazio para desenhar escudo)
+  eloName: 'Lord',
   eloImg: ''
 };
 
 const skills = [
-  { key: 'Web', pct: 60, title: 'Tecnologias Web' },
-  { key: 'Blockchain', pct: 2, title: 'Blockchain' },
-  { key: 'Redes Neurais', pct: 7, title: 'Redes Neurais' },
-  { key: 'Linux', pct: 70, title: 'Linux e Unix' },
-  { key: 'Banco de Dados', pct: 16, title: 'Banco de Dados' }
+  { key: '', pct: 60, title: 'Web' },
+  { key: '', pct: 2, title: 'Blockchain' },
+  { key: '', pct: 23, title: 'Neural Networks' },
+  { key: '', pct: 70, title: 'Linux and Unix' },
+  { key: '', pct: 56, title: 'Databases' }
 ];
-// ---------- FIM CONFIG ----------
 
-// Paleta (ajuste se quiser)
 const colors = {
   blue: '#3A4D9A',
   deep: '#2B2161',
@@ -158,7 +153,7 @@ const svg = `<?xml version="1.0" encoding="utf-8"?>
   <g transform="translate(${leftW + pad + 10}, ${pad})">
     <!-- header: Level / XP / Nome -->
     <text x="0" y="20" class="title">Level: ${esc(String(hero.level))} · XP: ${esc(String(hero.xpCurrent))} / ${esc(String(hero.xpNeeded))}</text>
-    <text x="${rightW - 10}" y="20" class="muted" text-anchor="end">Atualizado: ${esc(now)}</text>
+    <text x="${rightW - 10}" y="20" class="muted" text-anchor="end">Updated: ${esc(now)}</text>
     <text x="0" y="44" class="muted">Elo: <tspan class="gold">${esc(hero.eloName)}</tspan></text>
 
     <!-- skills block -->
