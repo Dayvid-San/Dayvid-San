@@ -14,7 +14,7 @@ const hero = {
   xpNeeded: 20000,
   eloName: 'Cavaleiro Arcano',
   // coloque uma URL https válida aqui (ou deixe vazio para desenhar escudo)
-  eloImg: 'https://github.com/user-attachments/assets/619a5827-126e-470f-9b35-aa433c8443ff'
+  eloImg: ''
 };
 
 const skills = [
@@ -30,12 +30,12 @@ const skills = [
 const colors = {
   blue: '#3A4D9A',
   deep: '#2B2161',
-  gold: '#C9A94B',
+  gold: '#FFFFFF',
   // papel mais escuro conforme pediu
-  parchment: '#dfdfdfff',
-  silver: '#C0BEBE',
-  mint: '#6EE7B7',
-  darkPaper: '#ddddddff'
+  parchment: '#2B2161',
+  silver: '#E5E5E5',
+  mint: '#FFFFFF',
+  darkPaper: '#3A4D9A'
 };
 
 // dimensions
@@ -108,12 +108,21 @@ function buildEloBlock(hero) {
       <image href="${href}" x="60" y="30" width="80" height="80" preserveAspectRatio="xMidYMid meet" />
     `;
   } else {
-    // draw a simple shield as fallback
+    // draw "The Royal Crest" shield
     return `
-      <g transform="translate(${leftW/2}, ${H/2 - pad})">
-        <path d="M0,-80 C40,-80 56,-40 56,8 C56,70 -56,70 -56,8 C-56,-40 -40,-80 0,-80 Z" fill="${colors.blue}" stroke="${colors.gold}" stroke-width="4"/>
-        <circle cx="0" cy="-10" r="8" fill="${colors.mint}" />
-        <text x="0" y="10" font-family="Georgia, serif" font-size="16" text-anchor="middle" fill="${colors.parchment}" font-weight="700">${esc(hero.name)}</text>
+      <g transform="translate(${leftW/2}, ${H/2 - 20})">
+        <!-- Shield Shape (Heater shield) -->
+        <path d="M-60,-70 L60,-70 L60,20 C60,60 0,80 0,80 C0,80 -60,60 -60,20 Z" fill="${colors.blue}" stroke="${colors.gold}" stroke-width="4"/>
+        
+        <!-- Crown Emblem -->
+        <g transform="translate(0, -20)">
+            <path d="M-35,-10 L-35,10 L-20,0 L0,10 L20,0 L35,10 L35,-10 Z" fill="${colors.gold}" stroke="${colors.silver}" stroke-width="2"/>
+            <circle cx="-35" cy="-15" r="5" fill="${colors.gold}"/>
+            <circle cx="0" cy="15" r="5" fill="${colors.gold}"/>
+            <circle cx="35" cy="-15" r="5" fill="${colors.gold}"/>
+        </g>
+        <!-- Hero Name -->
+        <text x="0" y="55" font-family="Georgia, serif" font-size="16" text-anchor="middle" fill="${colors.parchment}" font-weight="700">${esc(hero.name)}</text>
       </g>
     `;
   }
