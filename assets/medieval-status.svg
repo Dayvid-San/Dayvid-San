@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="790" height="280" viewBox="0 0 790 280" role="img" aria-label="Status medieval de Dayvid">
   <style>
-    .bg{fill:#dfdfdfff}
+    .bg{fill:#2B2161}
     .title{font-family: "Georgia", "Times New Roman", serif; font-weight:700; font-size:18px; fill:#2B2161}
-    .muted{font-family: "Segoe UI", Roboto, sans-serif; font-size:12px; fill:#C0BEBE}
+    .muted{font-family: "Segoe UI", Roboto, sans-serif; font-size:12px; fill:#E5E5E5}
     .gold{fill:#3A4D9A; font-weight:700}
   </style>
 
@@ -17,85 +17,98 @@
   <g transform="translate(20, 20)">
     <rect x="0" y="0" width="200" height="240" rx="10" fill-opacity="0" />
     
-      <image href="https://github.com/user-attachments/assets/619a5827-126e-470f-9b35-aa433c8443ff" x="60" y="30" width="80" height="80" preserveAspectRatio="xMidYMid meet" />
+      <g transform="translate(100, 120)">
+        <!-- Shield Shape (Heater shield) -->
+        <path d="M-60,-70 L60,-70 L60,20 C60,60 0,80 0,80 C0,80 -60,60 -60,20 Z" fill="#3A4D9A" stroke="#FFFFFF" stroke-width="4"/>
+        
+        <!-- Crown Emblem -->
+        <g transform="translate(0, -20)">
+            <path d="M-35,-10 L-35,10 L-20,0 L0,10 L20,0 L35,10 L35,-10 Z" fill="#FFFFFF" stroke="#E5E5E5" stroke-width="2"/>
+            <circle cx="-35" cy="-15" r="5" fill="#FFFFFF"/>
+            <circle cx="0" cy="15" r="5" fill="#FFFFFF"/>
+            <circle cx="35" cy="-15" r="5" fill="#FFFFFF"/>
+        </g>
+        <!-- Hero Name -->
+        <text x="0" y="55" font-family="Georgia, serif" font-size="16" text-anchor="middle" fill="#2B2161" font-weight="700">Dayvid</text>
+      </g>
     
     <!-- elo name under the shield -->
-    <text x="100" y="216" font-family="Georgia, serif" font-size="14" text-anchor="middle" fill="#C0BEBE" font-weight="700">Cavaleiro Arcano</text>
+    <text x="100" y="216" font-family="Georgia, serif" font-size="14" text-anchor="middle" fill="#E5E5E5" font-weight="700">Cavaleiro Arcano</text>
   </g>
 
   <!-- right area -->
   <g transform="translate(230, 20)">
     <!-- header: Level / XP / Nome -->
     <text x="0" y="20" class="title">Level: 27 · XP: 14250 / 20000</text>
-    <text x="540" y="20" class="muted" text-anchor="end">Atualizado: 25/01/2026, 15:18:30</text>
+    <text x="540" y="20" class="muted" text-anchor="end">Atualizado: 25/01/2026, 15:29:41</text>
     <text x="0" y="44" class="muted">Elo: <tspan class="gold">Cavaleiro Arcano</tspan></text>
 
     <!-- skills block -->
     
     <!-- skill Web -->
-    <text x="0" y="82" font-family="Georgia, 'Times New Roman', serif" font-size="14" fill="#C9A94B" font-weight="700">Web</text>
-    <text x="110" y="82" font-family="sans-serif" font-size="12" fill="#C0BEBE">Tecnologias Web</text>
+    <text x="0" y="82" font-family="Georgia, 'Times New Roman', serif" font-size="14" fill="#FFFFFF" font-weight="700">Web</text>
+    <text x="110" y="82" font-family="sans-serif" font-size="12" fill="#E5E5E5">Tecnologias Web</text>
 
     <!-- bar background (papel/ madeira escuro) -->
-    <rect x="110" y="90" width="390" height="12" rx="6" fill="#dfdfdfff" fill-opacity="1" stroke="#ddddddff" stroke-width="1.2"/>
+    <rect x="110" y="90" width="390" height="12" rx="6" fill="#2B2161" fill-opacity="1" stroke="#3A4D9A" stroke-width="1.2"/>
 
     <!-- bar fill (ouro envelhecido) -->
-    <rect x="110" y="90" width="234" height="12" rx="6" fill="#C9A94B" />
+    <rect x="110" y="90" width="234" height="12" rx="6" fill="#FFFFFF" />
 
     <!-- percent text -->
-    <text x="518" y="82" font-family="monospace" font-size="12" fill="#6EE7B7" text-anchor="end">60%</text>
+    <text x="518" y="82" font-family="monospace" font-size="12" fill="#FFFFFF" text-anchor="end">60%</text>
     
     <!-- skill Blockchain -->
-    <text x="0" y="112" font-family="Georgia, 'Times New Roman', serif" font-size="14" fill="#C9A94B" font-weight="700">Blockchain</text>
-    <text x="110" y="112" font-family="sans-serif" font-size="12" fill="#C0BEBE">Blockchain</text>
+    <text x="0" y="112" font-family="Georgia, 'Times New Roman', serif" font-size="14" fill="#FFFFFF" font-weight="700">Blockchain</text>
+    <text x="110" y="112" font-family="sans-serif" font-size="12" fill="#E5E5E5">Blockchain</text>
 
     <!-- bar background (papel/ madeira escuro) -->
-    <rect x="110" y="120" width="390" height="12" rx="6" fill="#dfdfdfff" fill-opacity="1" stroke="#ddddddff" stroke-width="1.2"/>
+    <rect x="110" y="120" width="390" height="12" rx="6" fill="#2B2161" fill-opacity="1" stroke="#3A4D9A" stroke-width="1.2"/>
 
     <!-- bar fill (ouro envelhecido) -->
-    <rect x="110" y="120" width="8" height="12" rx="6" fill="#C9A94B" />
+    <rect x="110" y="120" width="8" height="12" rx="6" fill="#FFFFFF" />
 
     <!-- percent text -->
-    <text x="518" y="112" font-family="monospace" font-size="12" fill="#6EE7B7" text-anchor="end">2%</text>
+    <text x="518" y="112" font-family="monospace" font-size="12" fill="#FFFFFF" text-anchor="end">2%</text>
     
     <!-- skill Redes Neurais -->
-    <text x="0" y="142" font-family="Georgia, 'Times New Roman', serif" font-size="14" fill="#C9A94B" font-weight="700">Redes Neurais</text>
-    <text x="110" y="142" font-family="sans-serif" font-size="12" fill="#C0BEBE">Redes Neurais</text>
+    <text x="0" y="142" font-family="Georgia, 'Times New Roman', serif" font-size="14" fill="#FFFFFF" font-weight="700">Redes Neurais</text>
+    <text x="110" y="142" font-family="sans-serif" font-size="12" fill="#E5E5E5">Redes Neurais</text>
 
     <!-- bar background (papel/ madeira escuro) -->
-    <rect x="110" y="150" width="390" height="12" rx="6" fill="#dfdfdfff" fill-opacity="1" stroke="#ddddddff" stroke-width="1.2"/>
+    <rect x="110" y="150" width="390" height="12" rx="6" fill="#2B2161" fill-opacity="1" stroke="#3A4D9A" stroke-width="1.2"/>
 
     <!-- bar fill (ouro envelhecido) -->
-    <rect x="110" y="150" width="27" height="12" rx="6" fill="#C9A94B" />
+    <rect x="110" y="150" width="27" height="12" rx="6" fill="#FFFFFF" />
 
     <!-- percent text -->
-    <text x="518" y="142" font-family="monospace" font-size="12" fill="#6EE7B7" text-anchor="end">7%</text>
+    <text x="518" y="142" font-family="monospace" font-size="12" fill="#FFFFFF" text-anchor="end">7%</text>
     
     <!-- skill Linux -->
-    <text x="0" y="172" font-family="Georgia, 'Times New Roman', serif" font-size="14" fill="#C9A94B" font-weight="700">Linux</text>
-    <text x="110" y="172" font-family="sans-serif" font-size="12" fill="#C0BEBE">Linux e Unix</text>
+    <text x="0" y="172" font-family="Georgia, 'Times New Roman', serif" font-size="14" fill="#FFFFFF" font-weight="700">Linux</text>
+    <text x="110" y="172" font-family="sans-serif" font-size="12" fill="#E5E5E5">Linux e Unix</text>
 
     <!-- bar background (papel/ madeira escuro) -->
-    <rect x="110" y="180" width="390" height="12" rx="6" fill="#dfdfdfff" fill-opacity="1" stroke="#ddddddff" stroke-width="1.2"/>
+    <rect x="110" y="180" width="390" height="12" rx="6" fill="#2B2161" fill-opacity="1" stroke="#3A4D9A" stroke-width="1.2"/>
 
     <!-- bar fill (ouro envelhecido) -->
-    <rect x="110" y="180" width="273" height="12" rx="6" fill="#C9A94B" />
+    <rect x="110" y="180" width="273" height="12" rx="6" fill="#FFFFFF" />
 
     <!-- percent text -->
-    <text x="518" y="172" font-family="monospace" font-size="12" fill="#6EE7B7" text-anchor="end">70%</text>
+    <text x="518" y="172" font-family="monospace" font-size="12" fill="#FFFFFF" text-anchor="end">70%</text>
     
     <!-- skill Banco de Dados -->
-    <text x="0" y="202" font-family="Georgia, 'Times New Roman', serif" font-size="14" fill="#C9A94B" font-weight="700">Banco de Dados</text>
-    <text x="110" y="202" font-family="sans-serif" font-size="12" fill="#C0BEBE">Banco de Dados</text>
+    <text x="0" y="202" font-family="Georgia, 'Times New Roman', serif" font-size="14" fill="#FFFFFF" font-weight="700">Banco de Dados</text>
+    <text x="110" y="202" font-family="sans-serif" font-size="12" fill="#E5E5E5">Banco de Dados</text>
 
     <!-- bar background (papel/ madeira escuro) -->
-    <rect x="110" y="210" width="390" height="12" rx="6" fill="#dfdfdfff" fill-opacity="1" stroke="#ddddddff" stroke-width="1.2"/>
+    <rect x="110" y="210" width="390" height="12" rx="6" fill="#2B2161" fill-opacity="1" stroke="#3A4D9A" stroke-width="1.2"/>
 
     <!-- bar fill (ouro envelhecido) -->
-    <rect x="110" y="210" width="62" height="12" rx="6" fill="#C9A94B" />
+    <rect x="110" y="210" width="62" height="12" rx="6" fill="#FFFFFF" />
 
     <!-- percent text -->
-    <text x="518" y="202" font-family="monospace" font-size="12" fill="#6EE7B7" text-anchor="end">16%</text>
+    <text x="518" y="202" font-family="monospace" font-size="12" fill="#FFFFFF" text-anchor="end">16%</text>
     
   </g>
 </svg>
