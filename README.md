@@ -69,7 +69,7 @@
  </div>
  
  <h3 align="center" >⚔️ My status ⚔️</h3>
- <img src="assets/medieval-status.svg" width="720" alt="Status medieval — Dayvid" />
+ <img src="assets/medieval-status.svg" width="920" alt="Status medieval — Dayvid" />
 </div>
 
 
