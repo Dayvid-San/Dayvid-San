@@ -41,7 +41,7 @@
 
 <div align="center" style="display: flex; justify-content: center; align-items: flex-start;">
 
- <img align="left" src="https://user-images.githubusercontent.com/77745454/153318783-aa0d4001-6955-4848-90f9-ca5e3e66214c.png" width="140" />
+ <img align="left" src="https://user-images.githubusercontent.com/77745454/153318783-aa0d4001-6955-4848-90f9-ca5e3e66214c.png" width="142" />
  <img align="right" src="https://giffiles.alphacoders.com/146/14621.gif" width="200" />
 
 
@@ -61,12 +61,6 @@
 
 
 ## GitHub
-
-<div align="center">
- <a href="#">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Dayvid-San&show_icons=true&theme=midnight-purple&include_all_commits=false&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dayvid-San&layout=compact&langs_count=8&theme=midnight-purple"/><br>
- </div>
  
  <h3 align="center" >⚔️ My status ⚔️</h3>
  <img src="assets/medieval-status.svg" width="920" alt="Status medieval — Dayvid" />
