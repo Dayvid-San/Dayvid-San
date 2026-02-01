@@ -40,14 +40,14 @@
   <g transform="translate(230, 20)">
     <!-- header: Level / XP / Nome -->
     <text x="0" y="20" class="title">Level: 27 · XP: 14250 / 20000</text>
-    <text x="540" y="20" class="muted" text-anchor="end">Updated: 31/01/2026, 21:53:52</text>
+    <text x="540" y="20" class="muted" text-anchor="end">Updated: 31/01/2026, 21:57:58</text>
     <text x="0" y="44" class="muted">Elo: <tspan class="gold">Lord</tspan></text>
 
     <!-- skills block -->
     
-    <!-- skill  -->
-    <text x="0" y="82" font-family="Georgia, 'Times New Roman', serif" font-size="14" fill="#FFFFFF" font-weight="700"></text>
-    <text x="110" y="82" font-family="sans-serif" font-size="12" fill="#E5E5E5">Web</text>
+    <!-- skill Web -->
+    <text x="0" y="82" font-family="Georgia, 'Times New Roman', serif" font-size="14" fill="#FFFFFF" font-weight="700">Web</text>
+    <text x="110" y="82" font-family="sans-serif" font-size="12" fill="#E5E5E5">Level: 15</text>
 
     <!-- bar background (papel/ madeira escuro) -->
     <rect x="110" y="90" width="390" height="12" rx="6" fill="#2B2161" fill-opacity="1" stroke="#3A4D9A" stroke-width="1.2"/>
@@ -58,9 +58,9 @@
     <!-- percent text -->
     <text x="518" y="82" font-family="monospace" font-size="12" fill="#FFFFFF" text-anchor="end">60%</text>
     
-    <!-- skill  -->
-    <text x="0" y="112" font-family="Georgia, 'Times New Roman', serif" font-size="14" fill="#FFFFFF" font-weight="700"></text>
-    <text x="110" y="112" font-family="sans-serif" font-size="12" fill="#E5E5E5">Blockchain</text>
+    <!-- skill Blockchain -->
+    <text x="0" y="112" font-family="Georgia, 'Times New Roman', serif" font-size="14" fill="#FFFFFF" font-weight="700">Blockchain</text>
+    <text x="110" y="112" font-family="sans-serif" font-size="12" fill="#E5E5E5">Level: 1</text>
 
     <!-- bar background (papel/ madeira escuro) -->
     <rect x="110" y="120" width="390" height="12" rx="6" fill="#2B2161" fill-opacity="1" stroke="#3A4D9A" stroke-width="1.2"/>
@@ -71,9 +71,9 @@
     <!-- percent text -->
     <text x="518" y="112" font-family="monospace" font-size="12" fill="#FFFFFF" text-anchor="end">2%</text>
     
-    <!-- skill  -->
-    <text x="0" y="142" font-family="Georgia, 'Times New Roman', serif" font-size="14" fill="#FFFFFF" font-weight="700"></text>
-    <text x="110" y="142" font-family="sans-serif" font-size="12" fill="#E5E5E5">Neural Networks</text>
+    <!-- skill Neural Networks -->
+    <text x="0" y="142" font-family="Georgia, 'Times New Roman', serif" font-size="14" fill="#FFFFFF" font-weight="700">Neural Networks</text>
+    <text x="110" y="142" font-family="sans-serif" font-size="12" fill="#E5E5E5">Level: 4</text>
 
     <!-- bar background (papel/ madeira escuro) -->
     <rect x="110" y="150" width="390" height="12" rx="6" fill="#2B2161" fill-opacity="1" stroke="#3A4D9A" stroke-width="1.2"/>
@@ -84,9 +84,9 @@
     <!-- percent text -->
     <text x="518" y="142" font-family="monospace" font-size="12" fill="#FFFFFF" text-anchor="end">23%</text>
     
-    <!-- skill  -->
-    <text x="0" y="172" font-family="Georgia, 'Times New Roman', serif" font-size="14" fill="#FFFFFF" font-weight="700"></text>
-    <text x="110" y="172" font-family="sans-serif" font-size="12" fill="#E5E5E5">Linux and Unix</text>
+    <!-- skill Linux -->
+    <text x="0" y="172" font-family="Georgia, 'Times New Roman', serif" font-size="14" fill="#FFFFFF" font-weight="700">Linux</text>
+    <text x="110" y="172" font-family="sans-serif" font-size="12" fill="#E5E5E5">Level: 38</text>
 
     <!-- bar background (papel/ madeira escuro) -->
     <rect x="110" y="180" width="390" height="12" rx="6" fill="#2B2161" fill-opacity="1" stroke="#3A4D9A" stroke-width="1.2"/>
@@ -97,9 +97,9 @@
     <!-- percent text -->
     <text x="518" y="172" font-family="monospace" font-size="12" fill="#FFFFFF" text-anchor="end">70%</text>
     
-    <!-- skill  -->
-    <text x="0" y="202" font-family="Georgia, 'Times New Roman', serif" font-size="14" fill="#FFFFFF" font-weight="700"></text>
-    <text x="110" y="202" font-family="sans-serif" font-size="12" fill="#E5E5E5">Databases</text>
+    <!-- skill Databases -->
+    <text x="0" y="202" font-family="Georgia, 'Times New Roman', serif" font-size="14" fill="#FFFFFF" font-weight="700">Databases</text>
+    <text x="110" y="202" font-family="sans-serif" font-size="12" fill="#E5E5E5">Level: 7</text>
 
     <!-- bar background (papel/ madeira escuro) -->
     <rect x="110" y="210" width="390" height="12" rx="6" fill="#2B2161" fill-opacity="1" stroke="#3A4D9A" stroke-width="1.2"/>
