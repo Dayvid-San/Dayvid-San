@@ -15,11 +15,11 @@ const hero = {
 };
 
 const skills = [
-  { key: '', pct: 60, title: 'Web' },
-  { key: '', pct: 2, title: 'Blockchain' },
-  { key: '', pct: 23, title: 'Neural Networks' },
-  { key: '', pct: 70, title: 'Linux and Unix' },
-  { key: '', pct: 56, title: 'Databases' }
+  { key: 'Web', pct: 60, title: 'Level: 15' },
+  { key: 'Blockchain', pct: 2, title: 'Level: 1' },
+  { key: 'Neural Networks', pct: 23, title: 'Level: 4' },
+  { key: 'Linux', pct: 70, title: 'Level: 38' },
+  { key: 'Databases', pct: 56, title: 'Level: 7' }
 ];
 
 const colors = {
