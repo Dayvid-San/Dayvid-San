@@ -59,7 +59,7 @@
 
 </div>
 
-## College Projectos
+## College Projects
 
 <div>
   
