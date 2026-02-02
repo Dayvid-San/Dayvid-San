@@ -59,6 +59,14 @@
 
 </div>
 
+## College Projectos
+
+<div>
+  
+- 🛡️ [**Portable Inspection Edge Node**](https://github.com/kamatashi/Portable-Inspection-Edge-Node)
+- 🛡️ [**Torneio Ferro e Sangue**](https://github.com/kamatashi/Torneio-de-Ferro-e-Gloria)
+
+</div>
 
 ## GitHub
  
