@@ -40,7 +40,7 @@
   <g transform="translate(230, 20)">
     <!-- header: Level / XP / Nome -->
     <text x="0" y="20" class="title">Level: 27 · XP: 14250 / 20000</text>
-    <text x="540" y="20" class="muted" text-anchor="end">Updated: 10/02/2026, 11:17:13</text>
+    <text x="540" y="20" class="muted" text-anchor="end">Updated: 10/02/2026, 12:57:37</text>
     <text x="0" y="44" class="muted">Elo: <tspan class="gold">Lord</tspan></text>
 
     <!-- skills block -->
