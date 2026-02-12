@@ -15,7 +15,7 @@
 ![Java](https://img.shields.io/badge/-Java-DD0031?style=flat-square&logo=java)
 ![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![C](https://img.shields.io/badge/-sharp-6A5ACD?style=flat-square&logo=c#)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -41,7 +41,7 @@
 
 <div align="center" style="display: flex; justify-content: center; align-items: flex-start;">
 
- <img align="left" src="https://user-images.githubusercontent.com/77745454/153318783-aa0d4001-6955-4848-90f9-ca5e3e66214c.png" width="130" />
+ <img align="left" src="https://user-images.githubusercontent.com/77745454/153318783-aa0d4001-6955-4848-90f9-ca5e3e66214c.png" width="150" />
  <img align="right" src="https://giffiles.alphacoders.com/146/14621.gif" width="200" />
 
 
@@ -54,6 +54,7 @@
 * 🛡️ [**Constructor**](https://tytocode.com.br/constructor)
 * 🛡️ [**AgroViva**](https://tytocode.com.br/agroviva)
 * 🛡️ [**Midas**](https://tytocode.com.br/midas)
+* 🛡️ [**DracmanCoin**](https://tytocode.com.br/coin)
 
 </div>
 
