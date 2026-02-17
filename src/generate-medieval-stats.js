@@ -25,7 +25,7 @@ const skills = [
 const colors = {
   blue: '#3A4D9A',
   deep: '#2B2161',
-  gold: '#FFD700', // Ajustei levemente para brilhar mais na animação
+  gold: '#FFFFFF',
   parchment: '#2B2161',
   silver: '#E5E5E5',
   mint: '#FFFFFF',
