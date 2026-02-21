@@ -25,7 +25,6 @@ const skills = [
 const colors = {
   blue: '#3A4D9A',
   deep: '#2B2161',
-  gold: '#FFFFFF',
   parchment: '#2B2161',
   silver: '#E5E5E5',
   mint: '#FFFFFF',
@@ -69,13 +68,13 @@ function buildSkillRows(skills, startX, startY) {
 
     rows += `
     <g class="fade-in" style="animation-delay: ${delay}s">
-      <text x="${nameX}" y="${y + 10}" font-family="Georgia, serif" font-size="14" fill="${colors.gold}" font-weight="700">${esc(s.key)}</text>
+      <text x="${nameX}" y="${y + 10}" font-family="Georgia, serif" font-size="14" fill="${colors.silver}" font-weight="700">${esc(s.key)}</text>
       <text x="${titleX}" y="${y + 10}" font-family="sans-serif" font-size="12" fill="${colors.silver}">${esc(s.title)}</text>
 
       <rect x="${barX}" y="${y + 18}" width="${barMaxW}" height="${barH}" rx="6" fill="${colors.parchment}" fill-opacity="1" stroke="${colors.darkPaper}" stroke-width="1.2"/>
 
       <rect class="bar-anim" style="animation-delay: ${delay + 0.3}s" 
-            x="${barX}" y="${y + 18}" width="${barW}" height="${barH}" rx="6" fill="${colors.gold}" />
+            x="${barX}" y="${y + 18}" width="${barW}" height="${barH}" rx="6" fill="${colors.silver}" />
 
       <text x="${pctX}" y="${y + 10}" font-family="monospace" font-size="12" fill="${colors.mint}" text-anchor="end">${s.pct}%</text>
     </g>
@@ -93,12 +92,12 @@ function buildEloBlock(hero) {
   const content = hasImage 
     ? `<image href="${esc(hero.eloImg)}" x="60" y="30" width="80" height="80" preserveAspectRatio="xMidYMid meet" />`
     : `<g transform="translate(${leftW/2}, ${H/2 - 20})">
-         <path d="M-60,-70 L60,-70 L60,20 C60,60 0,80 0,80 C0,80 -60,60 -60,20 Z" fill="${colors.blue}" stroke="${colors.gold}" stroke-width="4"/>
+         <path d="M-60,-70 L60,-70 L60,20 C60,60 0,80 0,80 C0,80 -60,60 -60,20 Z" fill="${colors.blue}" stroke="${colors.silver}" stroke-width="4"/>
          <g transform="translate(0, -20)">
-             <path d="M-35,-10 L-35,10 L-20,0 L0,10 L20,0 L35,10 L35,-10 Z" fill="${colors.gold}" stroke="${colors.silver}" stroke-width="2"/>
-             <circle cx="-35" cy="-15" r="5" fill="${colors.gold}"/>
-             <circle cx="0" cy="15" r="5" fill="${colors.gold}"/>
-             <circle cx="35" cy="-15" r="5" fill="${colors.gold}"/>
+             <path d="M-35,-10 L-35,10 L-20,0 L0,10 L20,0 L35,10 L35,-10 Z" fill="${colors.silver}" stroke="${colors.silver}" stroke-width="2"/>
+             <circle cx="-35" cy="-15" r="5" fill="${colors.silver}"/>
+             <circle cx="0" cy="15" r="5" fill="${colors.silver}"/>
+             <circle cx="35" cy="-15" r="5" fill="${colors.silver}"/>
          </g>
          <text x="0" y="55" font-family="Georgia, serif" font-size="16" text-anchor="middle" fill="${colors.parchment}" font-weight="700">${esc(hero.name)}</text>
        </g>`;
@@ -116,7 +115,7 @@ const svg = `<?xml version="1.0" encoding="utf-8"?>
     .bg { fill: ${colors.parchment}; }
     .title { font-family: "Georgia", serif; font-weight: 700; font-size: 18px; fill: ${colors.deep}; }
     .muted { font-family: "Segoe UI", sans-serif; font-size: 12px; fill: ${colors.silver}; }
-    .gold-text { fill: ${colors.blue}; font-weight: 700; }
+    .silver-text { fill: ${colors.blue}; font-weight: 700; }
 
     /* --- ANIMAÇÕES --- */
     
@@ -167,7 +166,7 @@ const svg = `<?xml version="1.0" encoding="utf-8"?>
   <g transform="translate(${leftW + pad + 10}, ${pad})">
     <text x="0" y="20" class="title fade-in">Level: ${esc(String(hero.level))} · XP: ${esc(String(hero.xpCurrent))} / ${esc(String(hero.xpNeeded))}</text>
     <text x="${rightW - 10}" y="20" class="muted fade-in" text-anchor="end">Updated: ${esc(now)}</text>
-    <text x="0" y="44" class="muted fade-in" style="animation-delay: 0.1s">Elo: <tspan class="gold-text">${esc(hero.eloName)}</tspan></text>
+    <text x="0" y="44" class="muted fade-in" style="animation-delay: 0.1s">Elo: <tspan class="silver-text">${esc(hero.eloName)}</tspan></text>
 
     ${buildSkillRows(skills, 0, 72)}
   </g>
