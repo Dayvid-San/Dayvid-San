@@ -9,7 +9,7 @@
 
 
 <div align="center">
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6fe91322-e36d-4aca-8d83-41904f9e429f/df3vtz6-07675b99-dcad-44aa-90f5-527b4b781339.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzZmZTkxMzIyLWUzNmQtNGFjYS04ZDgzLTQxOTA0ZjllNDI5ZlwvZGYzdnR6Ni0wNzY3NWI5OS1kY2FkLTQ0YWEtOTBmNS01MjdiNGI3ODEzMzkuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.DxpyPs1xMoA-_tE7cWgR1TxJuEQAxjNXjUt_-PHfOz4" style="margin-right: 20px;" width="650" />
+  <img src="https://francescosegala.files.wordpress.com/2014/06/candle.gif" style="margin-right: 20px;" width="650" />
 </div>
 
 ![Java](https://img.shields.io/badge/-Java-DD0031?style=flat-square&logo=java)
