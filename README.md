@@ -48,7 +48,7 @@
 <div align="left">
  
 * 🛡️ [**EngScan**](https://engscan.com)
-* 🛡️ [**TYTO.code**](https://tytocode.com.br)
+* 🛡️ [**TYTO.code**](https://club.tytocode.com.br)
 * 🛡️ [**Castle Collis Angelus**](https://collisangelus.vercel.app/)
 * 🛡️ [**Next**](https://lading-page-next.vercel.app)
 * 🛡️ [**Constructor**](https://tytocode.com.br/constructor)
