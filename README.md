@@ -54,7 +54,7 @@
 * 🛡️ [**Constructor**](https://tytocode.com.br/constructor)
 * 🛡️ [**AgroViva**](https://tytocode.com.br/agroviva)
 * 🛡️ [**Midas**](https://tytocode.com.br/midas)
-* 🛡️ [**DracmanCoin**](https://tytocode.com.br/clube/tytocoin)
+* 🛡️ [**Dracma**](https://club.tytocode.com.br/dracma)
 
 </div>
 
