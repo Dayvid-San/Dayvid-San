@@ -7,10 +7,10 @@ if (!fs.existsSync(outDir)) fs.mkdirSync(outDir, { recursive: true });
 // ---------- CONFIG ----------
 const hero = {
   name: 'Dayvid',
-  level: 27,
-  xpCurrent: 14250,
-  xpNeeded: 20000,
-  eloName: 'Lord',
+  level: 34,
+  xpCurrent: 1425000,
+  xpNeeded: 7000000,
+  eloName: 'Warlord',
   eloImg: ''
 };
 
