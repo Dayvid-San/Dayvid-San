@@ -59,13 +59,13 @@
          </g>
          <text x="0" y="55" font-family="Georgia, serif" font-size="16" text-anchor="middle" fill="#2B2161" font-weight="700">Dayvid</text>
        </g></g>
-    <text x="100" y="216" font-family="Georgia, serif" font-size="14" text-anchor="middle" fill="#E5E5E5" font-weight="700" class="fade-in" style="animation-delay: 0.2s">Lord</text>
+    <text x="100" y="216" font-family="Georgia, serif" font-size="14" text-anchor="middle" fill="#E5E5E5" font-weight="700" class="fade-in" style="animation-delay: 0.2s">Warlord</text>
   </g>
 
   <g transform="translate(230, 20)">
-    <text x="0" y="20" class="title fade-in">Level: 27 · XP: 14250 / 20000</text>
-    <text x="540" y="20" class="muted fade-in" text-anchor="end">Updated: 06/05/2026, 11:08:01</text>
-    <text x="0" y="44" class="muted fade-in" style="animation-delay: 0.1s">Elo: <tspan class="silver-text">Lord</tspan></text>
+    <text x="0" y="20" class="title fade-in">Level: 34 · XP: 1425000 / 7000000</text>
+    <text x="540" y="20" class="muted fade-in" text-anchor="end">Updated: 06/05/2026, 11:13:31</text>
+    <text x="0" y="44" class="muted fade-in" style="animation-delay: 0.1s">Elo: <tspan class="silver-text">Warlord</tspan></text>
 
     
     <g class="fade-in" style="animation-delay: 0s">
