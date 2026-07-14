@@ -44,6 +44,8 @@
  <img align="left" src="https://user-images.githubusercontent.com/77745454/153318783-aa0d4001-6955-4848-90f9-ca5e3e66214c.png" width="140" />
  <img align="right" src="https://giffiles.alphacoders.com/146/14621.gif" width="200" />
 
+<img src="https://gitfut.com/Dayvid-San.png" width="240" alt="Dom Jones">
+
 
 <div align="left">
  
