@@ -43,7 +43,7 @@
 
  <img align="left" src="https://user-images.githubusercontent.com/77745454/153318783-aa0d4001-6955-4848-90f9-ca5e3e66214c.png" width="140" />
  
- <img src="https://gitfut.com/Dayvid-San.png" width="170" alt="Dom Jones" align="right">
+ <img src="https://gitfut.com/Dayvid-San.png" width="140" alt="Dom Jones" align="right">
 
 
 <div align="left">
