@@ -42,9 +42,8 @@
 <div align="center" style="display: flex; justify-content: center; align-items: flex-start;">
 
  <img align="left" src="https://user-images.githubusercontent.com/77745454/153318783-aa0d4001-6955-4848-90f9-ca5e3e66214c.png" width="140" />
- <img align="right" src="https://giffiles.alphacoders.com/146/14621.gif" width="200" />
-
-<img src="https://gitfut.com/Dayvid-San.png" width="240" alt="Dom Jones">
+ 
+ <img src="https://gitfut.com/Dayvid-San.png" width="170" alt="Dom Jones" align="right">
 
 
 <div align="left">
@@ -64,11 +63,14 @@
 
 ## College Projects
 
-<div>
+<div align="left" style="display: flex; justify-content: center; align-items: flex-start;">
+  <img align="right" src="https://giffiles.alphacoders.com/146/14621.gif" width="200" />
   
 - 🛡️ [**Portable Inspection Edge Node**](https://github.com/kamatashi/Portable-Inspection-Edge-Node)
 - 🛡️ [**Torneio Ferro e Sangue**](https://github.com/kamatashi/Torneio-de-Ferro-e-Gloria)
-
+- 🛡️ [**Microcontrolador e processador de placa dedicada**](https://github.com/kamatashi/My-Poxim-V)
+- 🛡️ [**Criação de agendas automaticas e tempo em ônibus**](https://github.com/kamatashi)
+  
 </div>
 
 ## GitHub
