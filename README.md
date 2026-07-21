@@ -70,6 +70,7 @@
 - 🛡️ [**Torneio Ferro e Sangue**](https://github.com/kamatashi/Torneio-de-Ferro-e-Gloria)
 - 🛡️ [**Microcontrolador e processador de placa dedicada**](https://github.com/kamatashi/My-Poxim-V)
 - 🛡️ [**Criação de agendas automaticas e tempo em ônibus**](https://github.com/kamatashi)
+- 🛡️ [**Geoprocessamento em campo agricola**](https://github.com/kamatashi)
   
 </div>
 
