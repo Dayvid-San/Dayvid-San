@@ -74,6 +74,11 @@
   
 </div>
 
+## Estudos e Notas
+<div>
+  - https://github.com/dayvid-lz/Caderno-AirFlow
+</div>
+
 ## GitHub
  
  <h3 align="center" >⚔️ My status ⚔️</h3>
