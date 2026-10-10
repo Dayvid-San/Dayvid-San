@@ -3,7 +3,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=MedievalSharp&size=16&duration=4000&pause=1000&color=C0BEBE&multiline=true&repeat=false&width=525&height=140&lines=%F0%9F%92%BB+I+am+a+Software+Developer.;%F0%9F%93%9A+I+am+currently+focusing+on+Neural+Networks+and+Blockchain.;%F0%9F%8C%B1+I+enjoy+customization+and+personalization.;%F0%9F%A4%96+I+build+apps+and+bots+for+my+games.;%F0%9F%94%A7+My+journey+began+in+school%2C+learning+Java%2C+Python%2C+and+MySQL+.;%E2%9A%94%EF%B8%8F+Check+out+my+college+projects%3A+github.com%2Fkamatashi)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=MedievalSharp&size=16&duration=4000&pause=1000&color=C0BEBE&multiline=true&repeat=false&width=525&height=140&lines=%F0%9F%92%BB+I+am+a+Software+Engineer.;%F0%9F%93%9A+I+am+currently+focusing+on+Software+Architecture.;%F0%9F%8C%B1+I+enjoy+customization+and+personalization.;%F0%9F%A4%96+I+build+apps+and+bots+for+my+games.;%F0%9F%94%A7+My+journey+began+in+school%2C+learning+Java%2C+Python%2C+and+MySQL+.;%E2%9A%94%EF%B8%8F+Check+out+my+college+projects%3A+github.com%2Fkamatashi)](https://git.io/typing-svg)
 
 
 
