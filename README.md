@@ -1,95 +1,37 @@
+<div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=New+Rocker&size=35&pause=1000&color=3A4D9A&repeat=false&width=435&lines=Hey!+I'm+Dayvid.)](https://git.io/typing-svg) <img align="right" src="https://giffiles.alphacoders.com/146/14623.gif" width="200" />
+<img src="assets/banner.png" alt="Dayvid Santana, engenheiro de software" width="100%" />
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=MedievalSharp&size=16&duration=4000&pause=1000&color=C0BEBE&multiline=true&repeat=false&width=525&height=140&lines=%F0%9F%92%BB+I+am+a+Software+Engineer.;%F0%9F%93%9A+I+am+currently+focusing+on+Software+Architecture.;%F0%9F%8C%B1+I+enjoy+customization+and+personalization.;%F0%9F%A4%96+I+build+apps+and+bots+for+my+games.;%F0%9F%94%A7+My+journey+began+in+school%2C+learning+Java%2C+Python%2C+and+MySQL+.;%E2%9A%94%EF%B8%8F+Check+out+my+college+projects%3A+github.com%2Fkamatashi)](https://git.io/typing-svg)
-
-
-
-
-<div align="center">
-  <img src="https://francescosegala.files.wordpress.com/2014/06/candle.gif" style="margin-right: 20px;" width="650" />
-</div>
-
-![Java](https://img.shields.io/badge/-Java-DD0031?style=flat-square&logo=java)
-![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![ReactJS](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=sqlite)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4479A1?style=flat-square&logo=postgrel&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)
-![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-## Projects
-
-<div align="center" style="display: flex; justify-content: center; align-items: flex-start;">
-
- <img align="left" src="https://user-images.githubusercontent.com/77745454/153318783-aa0d4001-6955-4848-90f9-ca5e3e66214c.png" width="140" />
- 
- <img src="https://gitfut.com/Dayvid-San.png" width="140" alt="Dom Jones" align="right">
-
-
-<div align="left">
- 
-* 🛡️ [**EngScan**](https://engscan.com)
-* 🛡️ [**TYTO.code**](https://club.tytocode.com.br)
-* 🛡️ [**Castle Collis Angelus**](https://collisangelus.vercel.app/)
-* 🛡️ [**Next**](https://lading-page-next.vercel.app)
-* 🛡️ [**Constructor**](https://tytocode.com.br/constructor)
-* 🛡️ [**AgroViva**](https://tytocode.com.br/agroviva)
-* 🛡️ [**Midas**](https://tytocode.com.br/midas)
-* 🛡️ [**Dracma**](https://club.tytocode.com.br/dracma)
+[**Site**](https://dayvidsantana.com) · [**LinkedIn**](https://www.linkedin.com/in/dayvid-santana-jr/) · [**Contato**](https://dayvidsantana.com/contato)
 
 </div>
 
-</div>
+<br>
 
-## College Projects
+Sou engenheiro de software e pesquisador em inteligência artificial. Programo desde os 15 anos e hoje foco em arquitetura de software, automação e sistemas distribuídos. Fundei uma comunidade internacional de computação aplicada e gosto de problemas em que engenharia, ciência e software se encontram.
 
-<div align="left" style="display: flex; justify-content: center; align-items: flex-start;">
-  <img align="right" src="https://giffiles.alphacoders.com/146/14621.gif" width="200" />
-  
-- 🛡️ [**Portable Inspection Edge Node**](https://github.com/kamatashi/Portable-Inspection-Edge-Node)
-- 🛡️ [**Torneio Ferro e Sangue**](https://github.com/kamatashi/Torneio-de-Ferro-e-Gloria)
-- 🛡️ [**Microcontrolador e processador de placa dedicada**](https://github.com/kamatashi/My-Poxim-V)
-- 🛡️ [**Criação de agendas automaticas e tempo em ônibus**](https://github.com/kamatashi)
-- 🛡️ [**Geoprocessamento em campo agricola**](https://github.com/kamatashi)
-  
-</div>
+## Projetos
 
-## Estudos e Notas
-<div>
-  - https://github.com/dayvid-lz/Caderno-AirFlow
-</div>
+| Projeto | O que é |
+| --- | --- |
+| [**Hefesto**](https://dayvidsantana.com/portfolio/hefesto) | Assistente de IA pessoal e local-first. Toda resposta sobre meus repositórios cita arquivo, linha e commit. |
+| [**Maestro**](https://dayvidsantana.com/portfolio/maestro) | Orquestrador local de 26 agentes de IA que planejam, implementam e testam código em worktrees Git isolados. |
+| [**EngScan**](https://engscan.com) | Reduz vistorias e inspeções de meses para poucas horas. 1º lugar em competições. |
+| [**TYTO.code**](https://club.tytocode.com.br) | Comunidade internacional de computação e ciência, com reconhecimento em universidades. |
+| [**Monitor de Plantas**](https://dayvidsantana.com/portfolio/plantas) | Rega automática com ESP32, sensores e câmera, com dashboard PWA e sem depender de nuvem. |
 
-## GitHub
- 
- <h3 align="center" >⚔️ My status ⚔️</h3>
- <img src="assets/medieval-status.svg" width="920" alt="Status medieval — Dayvid" />
-</div>
+Os demais projetos estão em [dayvidsantana.com/portfolio](https://dayvidsantana.com/portfolio).
 
+## Tecnologias
 
-## Contact
+**Back-end** Java, Spring, Python, NestJS  
+**Front-end** TypeScript, React, Next.js  
+**Dados e infraestrutura** PostgreSQL, MongoDB, Docker, Linux
 
-<div>
-<a href="https://www.linkedin.com/in/dayvid-santana-jr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href = "mailto:dayvid.coder@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" ></a>
-<a href="https://www.instagram.com/dayvid_jr_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" ></a>
-</div>
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/dayvid-santana-jr/) · [E-mail](mailto:dayvid.coder@gmail.com) · [Instagram](https://www.instagram.com/dayvid_jr_/)
+
+<sub>Projetos acadêmicos em [github.com/kamatashi](https://github.com/kamatashi).</sub>
