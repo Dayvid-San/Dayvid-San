@@ -1,9 +1,17 @@
-name: Update medieval stats
+name: Update GitHub status card
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '0 9 * * *'
+  workflow_dispatch:
   push:
     branches: [ main ]
+    paths:
+      - 'src/**'
+      - 'assets/grifo-status.jpg'
+      - '.github/workflows/update-stats.yml'
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -13,13 +21,14 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '20'
-      - run: npm ci || true
-      - name: Generate medieval stats SVGs
+      - name: Generate status card from GitHub data
         run: node src/generate-medieval-stats.js
-      - name: Commit generated assets
+        env:
+          GH_TOKEN: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+      - name: Commit generated card
         uses: EndBug/add-and-commit@v9
         with:
           author_name: 'github-actions[bot]'
           author_email: '41898282+github-actions[bot]@users.noreply.github.com'
-          message: 'chore: update medieval stats svg'
-          add: 'assets/medieval-*.svg'
+          message: 'chore: update github status card'
+          add: 'assets/medieval-status.svg'
