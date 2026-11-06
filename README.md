@@ -82,7 +82,7 @@
 ## GitHub
  
  <h3 align="center" >⚔️ My status ⚔️</h3>
- <img src="assets/medieval-status.svg" width="920" alt="Status medieval — Dayvid" />
+ <img src="assets/medieval-status.svg" width="920" alt="Dayvid Santana: GitHub activity and top languages in the last 12 months" />
 </div>
 
 
