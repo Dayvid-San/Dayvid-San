@@ -1,7 +1,11 @@
 const fs = require('fs');
 const path = require('path');
 
-const LOGIN = process.env.STATS_LOGIN || 'Dayvid-San';
+// Cada conta usa o próprio token (secret) se existir, para contar privados; senão o token padrão (só dados públicos).
+const ACCOUNTS = [
+  { login: 'Dayvid-San', tokenEnv: 'STATS_TOKEN' }
+];
+const RECENT_DAYS = 365;
 const DISPLAY_NAME = 'Dayvid Santana';
 const HEADLINE = 'Software Engineer · Backend & Full Stack';
 const IGNORED_LANGUAGES = new Set(['HTML', 'CSS', 'SCSS', 'Less', 'Jupyter Notebook', 'Procfile', 'Dockerfile', 'Batchfile']);
@@ -41,6 +45,7 @@ query($login: String!) {
     repositories(ownerAffiliations: OWNER, isFork: false, first: 100, orderBy: { field: PUSHED_AT, direction: DESC }) {
       totalCount
       nodes {
+        pushedAt
         stargazerCount
         languages(first: 10, orderBy: { field: SIZE, direction: DESC }) {
           edges { size node { name } }
@@ -50,29 +55,43 @@ query($login: String!) {
   }
 }`;
 
-async function fetchGithub() {
-  const token = process.env.GH_TOKEN || process.env.GITHUB_TOKEN;
-  if (!token) throw new Error('GH_TOKEN ausente: defina um token para consultar a API do GitHub.');
+async function fetchAccount({ login, tokenEnv }) {
+  const token = process.env[tokenEnv] || process.env.GH_TOKEN || process.env.GITHUB_TOKEN;
+  if (!token) throw new Error(`Sem token para ${login}: defina ${tokenEnv} ou GH_TOKEN.`);
   const res = await fetch('https://api.github.com/graphql', {
     method: 'POST',
     headers: { Authorization: `bearer ${token}`, 'Content-Type': 'application/json', 'User-Agent': 'medieval-status' },
-    body: JSON.stringify({ query: QUERY, variables: { login: LOGIN } })
+    body: JSON.stringify({ query: QUERY, variables: { login } })
   });
   const json = await res.json();
   if (!res.ok || json.errors || !json.data?.user) {
-    throw new Error(`Falha na API do GitHub: ${res.status} ${JSON.stringify(json.errors || json.message)}`);
+    throw new Error(`Falha na API do GitHub para ${login}: ${res.status} ${JSON.stringify(json.errors || json.message)}`);
   }
+  console.log(`${login}: ${process.env[tokenEnv] ? 'token próprio' : 'token padrão (só públicos)'}`);
   return json.data.user;
 }
 
-function summarize(user) {
-  const cc = user.contributionsCollection;
-  const repos = user.repositories.nodes;
+function summarize(users, now = Date.now()) {
+  const since = now - RECENT_DAYS * 24 * 60 * 60 * 1000;
   const bytes = new Map();
-  for (const repo of repos) {
-    for (const edge of repo.languages.edges) {
-      if (IGNORED_LANGUAGES.has(edge.node.name)) continue;
-      bytes.set(edge.node.name, (bytes.get(edge.node.name) || 0) + edge.size);
+  let contributions = 0;
+  let commits = 0;
+  let pullRequests = 0;
+  let repoCount = 0;
+  let stars = 0;
+  for (const user of users) {
+    const cc = user.contributionsCollection;
+    contributions += cc.contributionCalendar.totalContributions;
+    commits += cc.totalCommitContributions;
+    pullRequests += cc.totalPullRequestContributions;
+    repoCount += user.repositories.totalCount;
+    for (const repo of user.repositories.nodes) {
+      stars += repo.stargazerCount;
+      if (Date.parse(repo.pushedAt) < since) continue;
+      for (const edge of repo.languages.edges) {
+        if (IGNORED_LANGUAGES.has(edge.node.name)) continue;
+        bytes.set(edge.node.name, (bytes.get(edge.node.name) || 0) + edge.size);
+      }
     }
   }
   const total = [...bytes.values()].reduce((a, b) => a + b, 0) || 1;
@@ -81,13 +100,12 @@ function summarize(user) {
     .slice(0, TOP_LANGUAGES)
     .map(([name, size]) => ({ name, pct: Math.round((size / total) * 1000) / 10 }));
 
-  const contributions = cc.contributionCalendar.totalContributions;
   return {
     contributions,
-    commits: cc.totalCommitContributions,
-    pullRequests: cc.totalPullRequestContributions,
-    repos: user.repositories.totalCount,
-    stars: repos.reduce((a, r) => a + r.stargazerCount, 0),
+    commits,
+    pullRequests,
+    repos: repoCount,
+    stars,
     rank: RANKS.find((r) => contributions >= r.min).name,
     languages
   };
@@ -172,15 +190,16 @@ function render(stats, emblemB64, updated) {
   </g>
   ${tilesSvg}
   ${langSvg}
-  <text x="${W - 24}" y="${H - 8}" class="foot" text-anchor="end">Last 12 months on GitHub · updated ${esc(updated)}</text>
+  <text x="${W - 24}" y="${H - 8}" class="foot" text-anchor="end">Last 12 months on GitHub${ACCOUNTS.length > 1 ? ` · ${ACCOUNTS.length} accounts` : ''} · updated ${esc(updated)}</text>
 </svg>
 `;
 }
 
 async function main() {
-  const stats = process.env.STATS_FIXTURE
-    ? summarize(JSON.parse(fs.readFileSync(process.env.STATS_FIXTURE, 'utf8')))
-    : summarize(await fetchGithub());
+  const users = process.env.STATS_FIXTURE
+    ? JSON.parse(fs.readFileSync(process.env.STATS_FIXTURE, 'utf8'))
+    : await Promise.all(ACCOUNTS.map(fetchAccount));
+  const stats = summarize(users);
   const emblem = fs.readFileSync(emblemPath).toString('base64');
   const updated = new Date().toLocaleDateString('en-GB', { timeZone: 'America/Sao_Paulo' });
   fs.writeFileSync(outPath, render(stats, emblem, updated), 'utf8');
